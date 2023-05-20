@@ -1,0 +1,15 @@
+.footer{
+background-color:rgb(237 237 237 / 96%); ;
+padding: 50px 10px;
+}
+.footer h4{
+font-weight: bold;
+}
+.footer ul li{
+    list-style: none;
+    text-align: center;
+    margin: 15px;
+}
+.footer p{
+    margin: 15px;
+}

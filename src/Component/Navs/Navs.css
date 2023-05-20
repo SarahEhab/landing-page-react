@@ -1,0 +1,28 @@
+
+Nav {
+background-color: rgb(237 237 237 / 96%);
+overflow: hidden;
+padding: 25px;
+}
+
+Nav .navbar-brand{
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 50px;
+}
+Nav .nav-link{
+    font-size: 16px;
+    margin-left: 15px;
+    color: #212121;
+    text-transform: uppercase;
+    text-align: center;
+}
+Nav Button{
+    background-color: #fb3e3e !important;
+    outline: none !important ;
+   border-radius: 20px !important ;
+   padding: 7px 20px !important ;
+   border: 1px solid #fb3e3e !important;
+   font-size: 20px !important;
+   font-weight: bold !important;
+}

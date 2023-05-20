@@ -1,0 +1,50 @@
+.Team{
+    margin-top: 40px;
+}
+.Team h2{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #333;
+    margin-top: 40px;
+}
+.Team p{
+    color: #757d86;
+    margin: 50px 0px;
+}
+.Team .box{
+    border-radius: 10px;
+    padding: 5px;
+    transition: 0.3s;
+}
+.Team .box:hover{
+    transition: 0.5s ease-in;
+    transform: translateY(-15px)
+}
+.Team .box img{
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.Team .box h3  , .boxx h3  {
+    font-size : 22px;
+}
+.Team .box h6 ,  .boxx h6 {
+    color: #757d86;
+    padding: 5px;
+}
+.Team .boxx svg{
+    color: #fb3e3e;
+    font-size: 40px;
+   margin: 25px 10px;
+}
+.Team button{
+    background-color: #fb3e3e ;
+    outline: none !important ;
+   border-radius: 10px ;
+   padding: 7px 20px  ;
+   border: 1px solid #fb3e3e !important;
+  margin-left: -15px;
+   margin-top: 45px;
+   margin-bottom: 60px;
+   color: #fff;
+   font-weight: bold;
+}

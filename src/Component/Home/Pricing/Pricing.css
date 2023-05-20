@@ -1,0 +1,65 @@
+.pricing{
+margin-top: 40px;
+}
+.pricing .row{
+    margin: 30px 40px;
+}
+.pricing h2{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #333;
+}
+.pricing p{
+    color: #757d86;
+    margin: 50px 0px;
+}
+.pricing .box{
+    box-shadow: 0 2px 15px rgb(0 0 0 / 20%);
+    width: 100%;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    background-color: #fff;
+    padding: 50px 40px 50px 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+.pricing .box:hover{
+    transition: 0.5s ease-in;
+    transform: translateY(-15px)
+}
+.pricing .box ul{
+    margin: auto;
+    text-align: center;
+    margin-right: 25px;
+}
+.pricing .box ul li{
+    list-style: none;
+    margin: 15px;
+    padding: 5px 0px;
+}
+.pricing .box ul li span{
+    color: #fb3e3e;
+    font-weight: bold;
+}
+.pricing .box ul li h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+.pricing .box ul li h4{
+    font-weight: bold;
+    font-size: 15px;
+    color: #757d86;
+}
+.box button{
+    background-color: #fb3e3e ;
+    outline: none !important ;
+   border-radius: 10px ;
+   padding: 7px 20px  ;
+   border: 1px solid #fb3e3e !important;
+  margin-left: -15px;
+   margin-top: 15px;
+   color: #fff;
+   font-weight: bold;
+}

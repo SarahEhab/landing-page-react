@@ -1,0 +1,37 @@
+.Users{
+    margin-top: 60px;
+}
+.Users .row{
+    margin: 30px auto;
+}
+.Users h2{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #333;
+}
+.Users p{
+    color: #757d86;
+    margin: 50px 0px;
+}
+.Users .box-user{
+    border: 1px solid #ecf0f5;
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    margin-bottom: 45px;
+}
+.Users .box-user:hover{
+    transition: 0.5s ease-in;
+    transform: translateY(-15px)
+}
+.Users .box-user img{
+    width: 80px;
+    border: 1px solid #e1d4d4;
+    padding: 5px;
+    margin-top: -25px;
+}
+.Users .box-user p{
+    font-size: 15px;
+    margin: 15px 25px 30px 25px;
+    font-style: italic;
+}
